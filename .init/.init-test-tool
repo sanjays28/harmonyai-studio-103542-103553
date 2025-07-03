@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/harmonyai-studio-103542-103553/music_assistant_frontend"
+}
